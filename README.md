@@ -1,0 +1,1 @@
+Notes and snippets about golang because I can't remember everything.
